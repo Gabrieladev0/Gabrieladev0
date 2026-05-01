@@ -11,6 +11,7 @@
 - 📚 Estudando desenvolvimento e análise de dados
 - 🎓 Cursando TI na **EBAC**
 - 🌱 Aprendendo **Python**, **SQL** e **lógica de programação**
+- 📊 Interesse em **visualização de dados** e **dashboards interativos**
 - 💡 Sempre em busca de novos projetos e desafios
 
 ---
@@ -22,6 +23,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -32,9 +38,9 @@
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
-| [🍽️ Restaurante DB](https://github.com/Gabrieladev0/Restaurante-DB-Projeto-SQL) | Banco de dados relacional completo de um restaurante com DDL, DML, JOINs e views | MySQL |
+| [🍽️ Restaurante DB](https://github.com/Gabrieladev0/Restaurante-DB-Projeto-SQL) | Banco de dados relacional completo de um restaurante com DDL, DML, JOINs, views e funções | MySQL |
 | [📈 Operações Mercado de Ações](https://github.com/Gabrieladev0/operacoes_mercado_acoes) | Dataset com 2.000 operações de compra e venda na B3 | Python / Excel |
-| [🛒 E-commerce Dados e Gráficos](https://github.com/Gabrieladev0/ecommerce_dados_graficos) | Análise de dados de e-commerce com visualizações | Python |
+| [🛒 E-commerce Dados e Gráficos](https://github.com/Gabrieladev0/ecommerce_dados_graficos) | Análise estatística e dashboard interativo com gráficos 3D de dados de e-commerce | Python / Dash / Plotly |
 | [🧠 Lógica de Programação](https://github.com/Gabrieladev0/logica_programacao) | Exercícios e projetos do curso de lógica em Python | Python |
 | [🏛️ Cartório EBAC](https://github.com/Gabrieladev0/Cartorioebac) | Projeto do curso de TI da EBAC | C++ |
 
